@@ -1,38 +1,5 @@
-/**
- * @name vencodetheme
- * @version 8.0
- * @description A simple but highly customizable theme, now sugar free!
- * @author Spectra
- * @invite PZdnCVD
- * @source https://github.com/xcruxiex/themes
- * @website https://betterdiscord.app/theme/Neutron
- * @BDEditor Neutron
-*/
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
-@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
-
-:root {
-  --backgroundImage: url('https://i.pinimg.com/564x/f5/ed/37/f5ed37757a0c7796913ebc55230f11ba.jpg');
-  --backgroundColor: #070111;
-  --backgroundSize: cover;
-  --backgroundPosition: center;
-  --backgroundRepeat: repeat;
-  --backgroundBlur: 0px;
-  --backgroundOpacity: 1;
-  --homeImage: url('https://imgur.com/eItxuAq.png');
-  --homeImageSize: cover;
-  --themeColor1: #3D4DAA;
-  --themeColor2: #000000;
-  --customFont: Open Sans;
-  --backgroundCode: rgba(0 0 0 /.5);
-  --backgroundName: rgba(0 0 0 /.5);
-  --columns: 3;
-  --guildgap: 3;
-  --aligndms: 0;
-}
-
+  
 /* Any custom CSS below here */
 
 
